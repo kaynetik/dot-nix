@@ -204,6 +204,7 @@
       "calibre"
       "vlc"
       "gimp"
+      "steam"
 
       # Communication & Entertainment
       "gather"
